@@ -1,0 +1,22 @@
+body {
+    background-color:rgba(1, 48, 70, 0.726);
+}
+
+
+.topbar {
+    width: 95%;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+    border-radius: 20px;
+}
+
+.topbar github {
+    align-items: left;
+}
